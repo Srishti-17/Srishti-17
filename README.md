@@ -1,15 +1,10 @@
-<!-- Banner Section -->
-<p align="center">
-  <img src="https://github.com/Srishti-17/Srishti-17/blob/main/banner.png" alt="Banner" width="100%" />
-</p>
+
 
 # Hi there 👋, I'm Srishti Sharma  
-**Web Developer | Tech Enthusiast**  
+*Web Developer 
 
 - 🔭 I’m currently working on **Full Stack Projects**  
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/srishti-sharma-391b7b218/)  
-
----
 
 ## 🚀 Languages & Tools  
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -22,9 +17,5 @@
 
 ---
 
-## 📊 GitHub Stats  
-![Srishti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Srishti-17&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Srishti-17&layout=compact&theme=radical)  
-
----
-
+## 📊 GitHub 
+![Srishti's GitHub](https://github.com/Srishti-17)  
