@@ -19,3 +19,6 @@
 
 ## 📊 GitHub 
 ![Srishti's GitHub](https://github.com/Srishti-17)  
+
+## 👀 Profile Views  
+![Profile views](https://komarev.com/ghpvc/?username=Srishti-17&color=blue)
