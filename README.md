@@ -1,7 +1,7 @@
 
 
 # Hi there 👋, I'm Srishti Sharma  
-**Web Developer | Tech Enthusiast**  
+**Web Developer 
 
 - 🔭 I’m currently working on **Full Stack Projects**  
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/srishti-sharma-391b7b218/)  
@@ -20,10 +20,6 @@
 ---
 
 ## 📊 GitHub Stats  
-![Srishti's GitHub stats](https://github.com/Srishti-17)  
+(https://github.com/Srishti-17)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Srishti-17&layout=compact&theme=radical)  
 
----
-
-## 👀 Profile Views  
-![Profile views](https://komarev.com/ghpvc/?username=Srishti-17&color=blue)
