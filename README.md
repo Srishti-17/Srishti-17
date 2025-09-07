@@ -1,7 +1,5 @@
-
-
 # Hi there 👋, I'm Srishti Sharma  
-**Web Developer 
+**Web Developer**  
 
 - 🔭 I’m currently working on **Full Stack Projects**  
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/srishti-sharma-391b7b218/)  
@@ -16,10 +14,14 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats  
-(https://github.com/Srishti-17)  
+[![Srishti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Srishti-17&show_icons=true&theme=radical)](https://github.com/Srishti-17)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Srishti-17&layout=compact&theme=radical)  
-
